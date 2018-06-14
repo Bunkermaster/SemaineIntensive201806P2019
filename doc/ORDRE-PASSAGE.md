@@ -118,6 +118,12 @@ https://github.com/PinkFlowerOfTheSunsetOfTheDeath/CMS
 
 https://github.com/AlexisLELEU/knowledge
 
+## 13. late!
+* Lucas
+* et les autres...
+
+
+
 # Ordre de passage (Matin)
 | Heure | Groupe |
 | --- | --- |
@@ -135,6 +141,7 @@ https://github.com/AlexisLELEU/knowledge
 | 11:45 | 10 |
 | 12:00 | 11 |
 | 12:15 | 12 |
+| 12:30 | 13 |
 
 # Ordre de passage (Après-midi)
 | Heure | Groupe |
@@ -153,3 +160,4 @@ https://github.com/AlexisLELEU/knowledge
 | 16:15 | 10 |
 | 16:30 | 11 |
 | 16:45 | 12 |
+| 17:00 | 13 |
