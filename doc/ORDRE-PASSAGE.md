@@ -109,6 +109,15 @@ https://github.com/SIMAM77/crm-freelance
 
 https://github.com/PinkFlowerOfTheSunsetOfTheDeath/CMS
 
+## 12. Les Ex-paires
+* Ibor Jonathan
+* Leleu Alexis
+* Geneix Bastien
+* Chauveau Duane
+* Mafoufi El Mafoud 
+
+https://github.com/AlexisLELEU/knowledge
+
 # Ordre de passage (Matin)
 | Heure | Groupe |
 | --- | --- |
@@ -125,6 +134,7 @@ https://github.com/PinkFlowerOfTheSunsetOfTheDeath/CMS
 | 11:30 | 9 |
 | 11:45 | 10 |
 | 12:00 | 11 |
+| 12:15 | 12 |
 
 # Ordre de passage (Après-midi)
 | Heure | Groupe |
@@ -142,3 +152,4 @@ https://github.com/PinkFlowerOfTheSunsetOfTheDeath/CMS
 | 16:00 | 9 |
 | 16:15 | 10 |
 | 16:30 | 11 |
+| 16:45 | 11 |
