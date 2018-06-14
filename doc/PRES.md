@@ -33,4 +33,4 @@ Oui. OUI!
 ```2018-06-15 09:00:00 CET```
 
 ## Ordre de passage
-Voir Passage
+Voir [ORDRE PASSAGE](ORDRE-PASSAGE.md)
