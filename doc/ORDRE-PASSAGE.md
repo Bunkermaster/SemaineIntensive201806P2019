@@ -18,6 +18,7 @@ https://github.com/Mykapo/Jakku
 * Samy Yahia,
 * Maxime Mangeret,
 * Fanny Pourtier
+* Alexandre Wadoux
 
 https://github.com/PressStartHetic/press-start-project
 
