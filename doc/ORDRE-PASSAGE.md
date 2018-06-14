@@ -1,6 +1,6 @@
 # Equipes
 
-## 1. Jaku
+## 1. Jakku
 * Mona Calibani,
 * Molika Thai,
 * Ombeline Reininger,
