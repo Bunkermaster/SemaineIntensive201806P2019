@@ -48,7 +48,7 @@ https://github.com/FreeLCRM/FreeLCRM
 
 https://github.com/o-cms/cms
 
-## 6. 
+## 6. crowdanizer
 * Samantha CHERY
 * Souleïman IMAME
 * Kaouthar AZZOUNE
@@ -56,7 +56,7 @@ https://github.com/o-cms/cms
 * Anne LAGARDE 
 * Mélanie HERAULT
 
-https://github.com/heraultmelanie/projet-CRM
+https://github.com/SIMAM77/crm-freelance
 
 ## 7. Modulab
 * Alice Beneyton,
