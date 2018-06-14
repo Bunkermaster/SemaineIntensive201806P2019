@@ -44,3 +44,7 @@ Une fois une ```milestone``` complétée, créer une ```release``` pour mettre �
 ## Branch
 
 Chaque ```milestone``` a sa ```branch```, sous le master, qui elle même contient une ```branch``` par ```issue```.
+
+# Soutenance
+* [Présentation](doc/PRES.md)
+* [Ordre de passage](doc/ORDRE-PASSAGE.md)
